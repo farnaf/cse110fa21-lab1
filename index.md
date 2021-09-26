@@ -1,7 +1,7 @@
 # **Farnia Nafarifard**
 #### Welcome to my CSE110 User Page! My name is Farnia, I am a 3rd year undergrad student studying computer engineering at UC San Diego. Click [here](#background) to read more about me. Or take a look at the [README file](README.md) of my lab 1.
 \
-![This is an image](https://upload.wikimedia.org/wikipedia/commons/1/14/Taraneh_Alidoosti%2C_The_Salesman_news_conference_%2813950311005853135%29.jpg)
+![This is an image](https://github.com/farnaf/cse110fa21-lab1/farnia.jpg)
 
 ## Background
 ---
