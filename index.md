@@ -27,7 +27,7 @@ My favorite courses at UC San Diego so far:
 - ECE 109. Engineering Probability and Statistics
 - HINE 118. The Middle East in the Twentieth Century
 
-After two years of professional experience at an educational institution, I am now interested in experiencing new things and finding an internship in industry. I am mostly interested in the intersection of tech, entrepreneurship, and finance. And I hope to sepnd the next summer on impactful projects in the market!
+After two years of professional experience at an educational institution, I am now interested in experiencing new things and finding an internship in industry. I am mostly interested in the intersection of tech, entrepreneurship, and finance. And I hope to spend the next summer on an impactful project. 
 
 ## Fun Stuff
 ---
