@@ -5,7 +5,7 @@
 
 ## Background
 ---
-I actually started college as an electrical engineering major. It was through my first Electrica]l and Computer Engineering (ECE) course that I was introduced to embedded systems. And out of that experience, I fell in love with the process of programming and thinking of its logic to write code. 
+I actually started college as an electrical engineering major. It was through my first Electrical and Computer Engineering (ECE) course that I was introduced to embedded systems. And out of that experience, I fell in love with the process of programming and thinking of its logic to write code. 
 Here is the first program I wrote in the C language:
 ```c
 // Create a function named ArrayAverage that passes in an array of 10 integers and returns the average of the array (use a double for the result)
