@@ -58,10 +58,10 @@ Currently reading:
 
 
 #### III. Outdoor Activities
-[x] Bike riding
-[x] Skateboarding
-[x] Swimming
-[x] Badminton
-[ ] Kayaking
-[ ] Surfing
-[ ] Archery
+- [x] Bike riding
+- [x] Skateboarding
+- [x] Swimming
+- [x] Badminton
+- [ ] Kayaking
+- [ ] Surfing
+- [ ] Archery
