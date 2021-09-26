@@ -1,7 +1,7 @@
 # **Farnia Nafarifard**
 #### Welcome to my CSE110 User Page! My name is Farnia, I am a 3rd year undergrad student studying computer engineering at UC San Diego. Click [here](#background) to read more about me. Or take a look at the [README file](README.md) of my lab 1.
 \
-<img src="https://raw.githubusercontent.com/farnaf/cse110fa21-lab1/create-user-page/farnia.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/farnaf/cse110fa21-lab1/create-user-page/farnia.jpg" width="550"/>
 
 ## Background
 ---
@@ -27,6 +27,8 @@ My favorite courses at UC San Diego so far:
 - ECE 109. Engineering Probability and Statistics
 - HINE 118. The Middle East in the Twentieth Century
 
+After two years of professional experience at an educational institution, I am now interested in experiencing new things and finding an internship in industry. I am mostly interested in the intersection of tech, entrepreneurship, and finance. And I hope to sepnd the next summer on impactful projects in the market!
+
 ## Fun Stuff
 ---
 If I find free time, I'd love to spend it on good movies, books, and bike riding! 
@@ -34,9 +36,7 @@ If I find free time, I'd love to spend it on good movies, books, and bike riding
 This past summer I put in a lot of effort into watching so many great movies. Here are some of the movies I **absolutely recommend** anyone to watch at least once:
 - Chinatown
 - Three Colors Triology: Blue, White, Red 
-- The Shining
 - Phantom Thread
-- La Collectionneuse
 - Schindler's List
 - Cleo From 5 to 7
 - The Silence of the Lambs
@@ -62,6 +62,5 @@ Currently reading:
 - [x] Skateboarding
 - [x] Swimming
 - [x] Badminton
-- [ ] Kayaking
 - [ ] Surfing
 - [ ] Archery
